@@ -18,7 +18,7 @@ Laravel 8 Articles created by :
 	```
     composer install
     ```
-- Make a file .env from .env.example and setting your config & create database name :  articles_db
+- Make a file .env from .env.example and setting your config & create database name :  article
     ```
     //...
     APP_URL=http://127.0.0.1:8000
