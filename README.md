@@ -57,23 +57,24 @@ Laravel 8 Articles created by :
     http://127.0.0.1:8000/api/...
     ```
 - If you run RESTfull API in testing tool using Postman, just download the file from <a href="https://drive.google.com/drive/folders/1Gfjv_3_Mh_y_-47TqjADihEx8vzuzyuI?usp=sharing">**this google drive link**</a>. And then import the file into your API testing tool using Postman
-- IF you test Backend (REST API) : Create post with method ```POST```
+
+- If you test Backend (REST API) : Create post with method ```POST``` & Run REST API in testing tool
     ```
     http://127.0.0.1:8000/api/article
     ```
-- IF you test Backend (REST API) : Display all posts with method ```GET```
+- If you test Backend (REST API) : Display all posts with method ```GET``` & Run REST API in testing tool
     ```
     http://127.0.0.1:8000/api/article
     ```
-- IF you test Backend (REST API) : Show detail post with method ```GET```
+- If you test Backend (REST API) : Show detail post with method ```GET``` & Run REST API in testing tool
     ```
     http://127.0.0.1:8000/api/article/{id}
     ```
-- IF you test Backend (REST API) : Update post with method ```PUT```
+- If you test Backend (REST API) : Update post with method ```PUT``` & Run REST API in testing tool
     ```
     http://127.0.0.1:8000/api/article/{id}
     ```
-- IF you test Backend (REST API) : Delete post with method ```DELETE```
+- If you test Backend (REST API) : Delete post with method ```DELETE``` & Run REST API in testing tool
     ```
     http://127.0.0.1:8000/api/article/{id}
     ```
