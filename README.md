@@ -8,6 +8,7 @@ Laravel 8 Articles created by :
 
 ## Feature 
 - CRUD Posts
+- CRUD RESTfull-API Posts
 
 ## Run This Apps
 - Download the master branch in terminal
